@@ -1,7 +1,6 @@
 <?php
 
-
-namespace xn\finance;
+namespace xnjy\finance;
 
 use think\facade\Env;
 

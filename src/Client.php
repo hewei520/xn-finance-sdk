@@ -1,10 +1,7 @@
 <?php
 
 
-namespace xn\finance;
-
-use think\Exception;
-use xn\output\StatusCode;
+namespace xnjy\finance;
 
 /**
  * @file Client

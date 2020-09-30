@@ -1,5 +1,5 @@
 {
-    "name": "hw/finance",
+    "name": "xnjy/finance",
     "description": "财务模块SDK",
     "type": "library",
     "require": {
@@ -19,7 +19,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "xn\\finance\\": "src"
+            "xnjy\\finance\\": "src"
         }
     },
     "extra": {
