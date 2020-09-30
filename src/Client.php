@@ -8,7 +8,7 @@ namespace xnjy\finance;
  * @synopsis
  * @author hewei(hewei@xiniaogongkao.com)
  * @version 1.0.0
- * @date 2020/9/22
+ * @date 2020/9/30
  */
 class Client
 {
