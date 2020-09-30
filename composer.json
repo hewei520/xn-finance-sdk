@@ -1,5 +1,5 @@
 {
-    "name": "xn-finance",
+    "name": "hw/finance",
     "description": "财务模块SDK",
     "type": "library",
     "require": {
