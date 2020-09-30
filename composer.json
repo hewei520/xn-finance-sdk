@@ -4,13 +4,11 @@
     "type": "library",
     "require": {
         "php": ">=7.2",
-        "topthink/framework": "5.1.*",
-        "xn/lib-php": "dev-master"
+        "topthink/framework": "5.1.*"
     },
     "require-dev": {
         "php": ">=7.2",
-        "topthink/framework": "5.1.*",
-        "xn/lib-php": "dev-master"
+        "topthink/framework": "5.1.*"
     },
     "authors": [
         {
